@@ -1,0 +1,1 @@
+Print('Happy winter carnival')
